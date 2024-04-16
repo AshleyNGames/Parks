@@ -1,0 +1,15 @@
+{
+  "Name": "Xiddav's Parks",
+  "Author": "Xiddav",
+  "Version": "1.0.0",
+  "Description": "Adds a few Parks to the map.",
+  "UniqueID": "Xiddav.Parks",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": [ "Nexus:" ],
+  "ContentPackFor": {  "UniqueID": "Pathoschild.ContentPatcher",}  ,
+  "Dependencies": [  	
+   {    	"UniqueID": "Xiddav.tilesheet",
+      "IsRequired": true},  
+   {    	"UniqueID": "DaisyNiko.Tilesheets",
+      "IsRequired": true}, ],
+}
